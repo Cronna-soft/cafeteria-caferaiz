@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router"
+import { HashRouter as Router, Routes, Route } from "react-router"
 import { HomePage, CartaPage, AboutPage } from "./pages"
 import { FloatingButtons, Footer, Navbar } from "./components"
 
