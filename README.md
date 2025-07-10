@@ -35,11 +35,17 @@ Este proyecto ha sido diseñado y desarrollado exclusivamente por Daniel Audor, 
 ## 📁 Estructura del proyecto
 
 src/
+
 ├── assets/ → Imágenes y recursos visuales
+
 ├── components/ → Componentes reutilizables (Hero, Carta, etc.)
+
 ├── data/ → Archivo de productos simulados
+
 ├── pages/ → Rutas: Home, Carta, Nosotros
+
 ├── App.jsx → Rutas principales + layout
+
 └── main.jsx → Enlace al DOM
 
 ### 📩 Contacto
