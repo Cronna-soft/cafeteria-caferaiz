@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Facebook",
+		"user": "Usuario de Facebook",
+		"icon": "bi bi-facebook",
+		"url" : "#"
+	},
+	{
+		"name": "Instagram",
+		"user": "Usuario de Instagram",
+		"icon": "bi bi-instagram",
+		"url" : "#"
+	},
+	{
+		"name": "Tiktok",
+		"user": "Usuario de Tiktok",
+		"icon": "bi bi-tiktok",
+		"url" : "#"
+	},
+	{
+		"name": "LinkedIn",
+		"user": "Usuario de LinkedIn",
+		"icon": "bi bi-linkedin",
+		"url" : "#"
+	},
+	{
+		"name": "X Twitter",
+		"user": "Usuario de X Twitter",
+		"icon": "bi bi-twitter-x",
+		"url" : "#"
+	}
+]

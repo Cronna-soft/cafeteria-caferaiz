@@ -1,0 +1,5 @@
+[
+	{ "to": "/", "label": "Inicio" },
+	{ "to": "/carta", "label": "Carta" },
+	{ "to": "/nosotros", "label": "Nosotros" }
+]

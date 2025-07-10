@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Espresso doble",
+    "price": 6500,
+    "category": "caliente",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Latte de vainilla",
+    "price": 8500,
+    "category": "caliente",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Café Americano",
+    "price": 7000,
+    "category": "caliente",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Capuccino clásico",
+    "price": 8000,
+    "category": "caliente",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Flat White",
+    "price": 8200,
+    "category": "caliente",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Chocolate caliente artesanal",
+    "price": 7800,
+    "category": "caliente",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Cold Brew",
+    "price": 9500,
+    "category": "frio",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Frappé de café",
+    "price": 9800,
+    "category": "frio",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Té helado de frutos rojos",
+    "price": 8700,
+    "category": "frio",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Limonada de coco",
+    "price": 9000,
+    "category": "frio",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Frappé de vainilla",
+    "price": 9800,
+    "category": "frio",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Cold brew de naranja",
+    "price": 9600,
+    "category": "frio",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Torta de zanahoria",
+    "price": 6800,
+    "category": "postre",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Cheesecake de frutos rojos",
+    "price": 7200,
+    "category": "postre",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Brownie con nueces",
+    "price": 6500,
+    "category": "postre",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Croissant de almendras",
+    "price": 6200,
+    "category": "postre",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Affogato clásico",
+    "price": 7500,
+    "category": "postre",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Pastel de chocolate belga",
+    "price": 7700,
+    "category": "postre",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Avocado toast con huevo",
+    "price": 12000,
+    "category": "brunch",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Omelette de vegetales",
+    "price": 11000,
+    "category": "brunch",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Bowl de yogurt con granola",
+    "price": 9800,
+    "category": "brunch",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Panqueques con miel de café",
+    "price": 10800,
+    "category": "brunch",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Wrap de pollo y espinaca",
+    "price": 11500,
+    "category": "brunch",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  },
+  {
+    "name": "Arepa con queso artesanal",
+    "price": 9500,
+    "category": "brunch",
+    "image": "https://placehold.jp/4e342e/fbe9e7/500x500.png"
+  }
+]

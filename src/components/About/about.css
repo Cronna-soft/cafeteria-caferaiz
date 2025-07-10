@@ -1,0 +1,25 @@
+.values-contain {
+	&:hover img {
+		opacity: 0.3;
+	}
+	&:hover .values-overlay {
+		opacity: 1;
+	}
+}
+
+.values-overlay {
+	transition: all 0.2s ease;
+	top: 50%; left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+@media screen and (width >= 64rem) {
+	.about-contain {
+	    display: grid;
+	    grid-template-columns: repeat(4, 1fr);
+	}
+
+	.about-item:last-child {
+	    grid-column: span 2 / span 2;
+	}        
+}
