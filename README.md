@@ -1,5 +1,7 @@
 # ☕ Café Raíz – Sitio Web de Cafetería Artesanal
 
+## [Visitar el Sitio Web](https://cronna-soft.github.io/cafeteria-caferaiz/) en Github Pages
+
 ## Descripción
 
 **Café Raíz** es un sitio web construido para una cafetería artesanal ficticia, como ejercicio práctico de desarrollo frontend realista.  
