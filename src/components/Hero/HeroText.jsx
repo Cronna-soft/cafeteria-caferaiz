@@ -13,7 +13,7 @@ const HeroText = () => {
 			</p>
 
 			<div className="flex justify-center md:justify-start gap-4">
-				<a href="#about"
+				<a href="#"
 					className="bg-[var(--secundary-color)] text-center text-sm text-[var(--primary-color)] font-semibold px-6 py-3 rounded-full hover:bg-[var(--primary-color)] hover:text-[var(--secundary-color)] transition duration-300"
 				>
 					Conócenos

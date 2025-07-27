@@ -21,7 +21,9 @@ export const Navbar = () => {
 	 				<img className="nav-image" src={navImage} alt="Imagen Nav Cronna" title="Café Raíz" />
 	 			</Link>
 
- 				<SocialList />
+	 			<div className="hidden md:block">
+ 					<SocialList />
+	 			</div>
 
 	 			{/*MOBILE BOTON*/}
 	 			<button 
@@ -42,7 +44,7 @@ export const Navbar = () => {
 	 		{menuOpen && (
 	 			<>
 		 			<ul className="md:hidden bg-[var(#d3b495)] mt-4 px-4 pb-6 flex flex-col items-center gap-4 text-lg font-semibold text-gray-700 transition-all duration-300">
-		 				<NavDesktop links={navLinks} onCloseMenu={closeMenu} Component={NavLink} />	 				
+		 				<NavMobile links={navLinks} onCloseMenu={closeMenu} Component={NavLink} />	 				
 		 			</ul>
 		 			<div className="flex md:hidden justify-center pb-4">
 		 				<SocialList />
